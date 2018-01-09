@@ -56,3 +56,38 @@ for x in range(len(dates)):
     print('时间：%s' % dates[x])
     print('地点：%s' % locations[x])
     print('主题：%s' % titles[x])
+
+#Result
+
+#----------------------------------------------------
+#时间：22 Jan. – 24 Jan.
+#地点： 2018
+#主题：PyCascades 2018
+#----------------------------------------------------
+#时间：24 Jan. – 29 Jan.
+#地点：Granville Island Stage, 1585 Johnston St, Vancouver, BC V6H 3R9, Canada
+#主题：PyCon Cameroon 2018
+#----------------------------------------------------
+#时间：03 Feb. – 05 Feb.
+#地点： 2018
+#主题：FOSDEM 2018
+#----------------------------------------------------
+#时间：08 Feb. – 12 Feb.
+#地点：Limbe, Cameroon
+#主题：PyCon Pune 2018
+#----------------------------------------------------
+#时间：09 Feb. – 12 Feb.
+#地点： 2018
+#主题：PyCon Colombia 2018
+#----------------------------------------------------
+#时间：10 Feb. – 12 Feb.
+#地点：ULB Campus du Solbosch, Av. F. D. Roosevelt 50, 1050 Bruxelles, Belgium
+#主题：PyTennessee 2018
+#----------------------------------------------------
+#时间：16 Dec. – 17 Dec.
+#地点： 2018
+#主题：PyCon Pakistan
+#----------------------------------------------------
+#时间：09 Dec. – 10 Dec.
+#地点：Pune, India
+#主题：PyCon Indonesia 2017
