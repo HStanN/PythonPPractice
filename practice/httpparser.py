@@ -13,10 +13,6 @@ class MyHTMLParser(HTMLParser):
         self.date_flag = 0
         self.title_flag = 0
         self.location_flag = 0
-        self.events = []
-        self.date = ""
-        self.title = ""
-        self.location = ""
 
     def handle_starttag(self, tag, attrs):
         if tag == 'ul':
